@@ -1,0 +1,9 @@
+div.color-preview{
+  width: 200px;
+  height: 200px;
+  -moz-border-radius: 150px;
+  -webkit-border-radius: 150px;
+  --border-radius: 100px;
+  border-radius: 100px;
+  text-align: center;
+}
